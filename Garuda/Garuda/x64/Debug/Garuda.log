@@ -1,0 +1,30 @@
+﻿  Engine.cpp
+  Keyboard.cpp
+  Math.cpp
+  Rect.cpp
+e:\berkas pengguna\barang_kuliah\semester_6\pg\garuda\garuda\engine\math\rect.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Vector3.cpp
+  BadanKaku.cpp
+e:\berkas pengguna\barang_kuliah\semester_6\pg\garuda\garuda\engine\math\rect.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Garuda.cpp
+e:\berkas pengguna\barang_kuliah\semester_6\pg\garuda\garuda\engine\math\rect.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\berkas pengguna\barang_kuliah\semester_6\pg\garuda\garuda\garuda.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\berkas pengguna\barang_kuliah\semester_6\pg\garuda\garuda\garuda.cpp(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Sprite.cpp
+  Texture.cpp
+  Mouse.cpp
+  Glider.cpp
+e:\berkas pengguna\barang_kuliah\semester_6\pg\garuda\garuda\engine\math\rect.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\berkas pengguna\barang_kuliah\semester_6\pg\garuda\garuda\gliderpunk\glider.cpp(17): warning C4305: 'argument': truncation from 'double' to 'float'
+  InputManager.cpp
+e:\berkas pengguna\barang_kuliah\semester_6\pg\garuda\garuda\engine\math\rect.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Pipe.cpp
+e:\berkas pengguna\barang_kuliah\semester_6\pg\garuda\garuda\engine\math\rect.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  PipeManager.cpp
+e:\berkas pengguna\barang_kuliah\semester_6\pg\garuda\garuda\engine\math\rect.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+e:\berkas pengguna\barang_kuliah\semester_6\pg\garuda\garuda\gliderpunk\pipemanager.cpp(84): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+e:\berkas pengguna\barang_kuliah\semester_6\pg\garuda\garuda\gliderpunk\pipemanager.cpp(85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+Texture.obj : error LNK2019: unresolved external symbol SOIL_load_OGL_texture referenced in function "public: __cdecl Texture::Texture(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (??0Texture@@QEAA@V?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+Engine\Graphics\SOIL\lib\SOIL.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\Berkas Pengguna\Barang_Kuliah\Semester_6\PG\Garuda\x64\Debug\Garuda.exe : fatal error LNK1120: 1 unresolved externals
